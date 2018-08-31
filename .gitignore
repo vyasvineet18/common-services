@@ -1,0 +1,6 @@
+/user-servc/*.cmd
+/user-servc/mvnw
+/user-servc/.mvn/wrapper/maven-wrapper.properties
+/user-servc/.mvn/wrapper/maven-wrapper.jar
+/user-servc/.mvn/wrapper
+/user-servc/.gitignore
